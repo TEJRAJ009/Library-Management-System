@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System (SEM 5 Mini-project)
 
 A simple online library management system built with MongodDB, Express.js and Node.js.
 
